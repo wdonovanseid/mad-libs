@@ -1,17 +1,17 @@
-# _{Application Name}_
+# Mad Libs
+#### A Mad Libs style app. Created August 12, 2020
 
-#### _{Brief description of application}, {Date of current version}_
-
-#### By _**William Donovan-Seid**_
+#### By _**William Donovan-Seid and Alma Frankenstein**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This app lets users enter parts of speech
 
 ## Setup/Installation Requirements
 
 * _Copy Repository_
 * _Open index.html in your web browser_
+* _Fill in the blanks and hit 'submit'
 
 ## Known Bugs
 
@@ -19,14 +19,13 @@ _There are no known bugs at this time._
 
 ## Support and contact details
 
-_If there are any questions or concerns, feel free to contact us at wdstwo@live.com._
+A.Q.Frankenstein@gmail.com or wdstwo@live.com
 
 ## Technologies Used
 
 _HTML_
+_JQuery_
+_CSS_
 
-### License
 
-This software is licensed under the MIT license.
-
-Copyright (c) 2020 **_William Donovan-Seid_**
+Copyright (c) 2020 **_William Donovan-Seid and Alma Frankenstein_**
